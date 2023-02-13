@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "partlycloudyicon.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
