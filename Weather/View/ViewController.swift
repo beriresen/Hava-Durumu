@@ -25,6 +25,7 @@ class ViewController: UIViewController,CLLocationManagerDelegate  {
         setupCircleView()
         lblDerece.text = resultData.day
         print(viewModel.weeather.value?.result?.count)
+        
     }
     
     //MARK:CircleView

@@ -6,7 +6,6 @@ target 'Weather' do
   use_frameworks!
   pod 'Alamofire'
   pod 'SwiftyJSON', '~> 4.0'
-  pod 'Kingfisher', '~> 7.0'
 
   # Pods for Weather
 

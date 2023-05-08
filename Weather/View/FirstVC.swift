@@ -7,7 +7,6 @@
 
 import UIKit
 import MapKit
-import Kingfisher
 
 
 class FirstVC: UIViewController,CLLocationManagerDelegate,UICollectionViewDelegate,UICollectionViewDataSource {
@@ -35,6 +34,7 @@ class FirstVC: UIViewController,CLLocationManagerDelegate,UICollectionViewDelega
         setupViewModelObserver()
         setupCircleView()
         setupCollecitonview()
+        viewModel.getWeather(lang: "tr", city: "ankara") //emulatöre kapalıyken yorumsatırına al
         
     }
     func assignbackground(status:String){
