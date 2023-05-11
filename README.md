@@ -1,6 +1,12 @@
 # Hava-Durumu
-# Mackolik
 
+## Kullanılan Teknolojiler<br/>
+* UIKit <br/>
+* Alamofire <br/>
+* MVVM <br/> 
+* Kingfisher  <br/>
+* MapKit <br/>
+* TableViewCell  <br/>
 **Projenin Amacı** <br/>
 
 *Günlük ve haftalık hava durmunu gösteren Swift UIKit-MVVM-Alamofire ile bireysel olarak geliştirdiğim projem.*<br/>
