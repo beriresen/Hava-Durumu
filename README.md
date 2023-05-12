@@ -6,7 +6,7 @@
 * MVVM <br/> 
 * Kingfisher  <br/>
 * MapKit <br/>
-* TableViewCell  <br/>
+* UICollectionView  <br/>
 
 
 **Projenin Amacı** <br/>
